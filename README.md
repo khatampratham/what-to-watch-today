@@ -14,3 +14,7 @@ featues:
 3. RUN!!
 
 NOTE: ii have alr attackhed an api key if you want you can get one for free from https://www.themoviedb.org/, no promo
+
+WHAT THE ADV PROGRAMME DOES:
+it gives the top recommendation, with its poster + the current IMDb rating
+
