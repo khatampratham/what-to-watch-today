@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import requests
 
-API_KEY = "27f9ef7e74cd905a096ef7fd3d3d5745"
+API_KEY = "INSERT YOUR API KEY HERE, check readme for info"
 BASE_URL = "https://api.themoviedb.org/3"
 
 def search(movie):
@@ -56,3 +56,4 @@ res = tk.Text(root, height=10, width=60, bg="#f9f9f9")
 res.pack(pady=5)
 
 root.mainloop()
+
