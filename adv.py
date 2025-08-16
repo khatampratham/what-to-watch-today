@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import requests
 from io import BytesIO
 
-API_KEY = "27f9ef7e74cd905a096ef7fd3d3d5745"
+API_KEY = "INSERT YOUR API KEY HERE, check readme for info"
 BASE_URL = "https://api.themoviedb.org/3"
 
 def search(movie):
@@ -71,3 +71,4 @@ img_label = tk.Label(root)
 img_label.pack(pady=5)
 
 root.mainloop()
+
